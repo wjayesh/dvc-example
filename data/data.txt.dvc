@@ -1,5 +1,5 @@
 outs:
-- md5: 82d12486d13910094d62fc6182a8e676
-  size: 32
+- md5: 978e6dc77cae0854cf449ab95c1f1146
+  size: 48
   isexec: true
   path: data.txt
